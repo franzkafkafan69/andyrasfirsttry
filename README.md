@@ -7,8 +7,8 @@ hithis is my first try :3
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>All about Ace trappola</h1>
+<p>by mika.</p>
 
 </body>
 </html>
