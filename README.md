@@ -3,7 +3,7 @@ hithis is my first try :3
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>♡</title>
 </head>
 <body>
 
