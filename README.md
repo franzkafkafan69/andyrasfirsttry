@@ -7,7 +7,7 @@ hithis is my first try :3
 </head>
 <body>
 
-<h1>All about Ace trappola</h1>
+<h1 style="color:Tomato;">All about Ace Trappola</h1>
 <p>by mika.</p>
 
 </body>
