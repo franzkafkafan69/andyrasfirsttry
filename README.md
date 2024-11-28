@@ -13,18 +13,18 @@
 By the time of the Mask☆DeMasque trials, he had become an international prosecutor who had prosecuted in five other countries, as well as being known as the top prosecutor in his homeland. His goal as a prosecutor is to seek the truth above all else, and to use the power of the law to save people.</p>
 <img src="https://i.pinimg.com/originals/44/be/a1/44bea1b8f058cde7cb8c7df1df08d348.gif" alt="gif suami ana">
 <h3 style="color:darkred;">Biological information</h3>
-<p> Reckoned birth year(s)? ;
-    1992-1993
-    Documented age range ;
-    9*- 35*
-    Last known status ;
-    Alive (Sep. 2028)
-    Eye color ;
-    Gray
-    Hair color ;
-    Dark gray
-    Height ;
-    5'10"; 178 cm</p>
+<p> Reckoned birth year(s)? ;</p>
+        <p>   1992-1993</p>
+    <p>Documented age range ;</p>
+   <p> 9*- 35*</p>
+   <p> Last known status ;</p>
+   <p> Alive (Sep. 2028)</p>
+   <p> Eye color ;</p>
+   <p> Gray</p>
+   <p> Hair color ;</p>
+  <p>  Dark gray</p>
+    <p>Height ;</p>
+   <p> 5'10"; 178 cm</p>
     <img src="https://i.pinimg.com/564x/5e/f2/b9/5ef2b9ca1ac9554a3211ed68aa982acc.jpg" alt="gambar miles edgewort ganteng">
 body>
 </html> 
