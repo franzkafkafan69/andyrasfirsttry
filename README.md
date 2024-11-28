@@ -12,18 +12,18 @@
 <p>Miles Edgeworth is a[2] Chief Prosecutor of the prosecutor's office. During his first four years as a prosecutor, he had a perfect win record in trials and was willing to do just about anything to get a guilty verdict for the defendant. His defeat in court at the hand of his childhood friend Phoenix Wright was the beginning of a series of seismic shifts in his attitude concerning his profession. He even quit twice, only to return each time with a fresh outlook on how he conducted his life.
 By the time of the Mask☆DeMasque trials, he had become an international prosecutor who had prosecuted in five other countries, as well as being known as the top prosecutor in his homeland. His goal as a prosecutor is to seek the truth above all else, and to use the power of the law to save people.</p>
 <img src="https://i.pinimg.com/originals/44/be/a1/44bea1b8f058cde7cb8c7df1df08d348.gif" alt="gif suami ana">
-<h3 style="color:darkred;">Biological information</h3>
-<h4> Reckoned birth year(s)? ;</h4>
+<h2 style="color:darkred;">Biological information</h2>
+<h3> Reckoned birth year(s)? ;</h3>
         <p>   1992-1993</p>
-    <h4>Documented age range ;</h4>
+    <h3>Documented age range ;</h3>
    <p> 9*- 35*</p>
-   <h4> Last known status ;</h4>
+   <h3> Last known status ;</h3>
    <p> Alive (Sep. 2028)</p>
-   <h4> Eye color ;</h4>
+   <h3> Eye color ;</h3>
    <p> Gray</p>
-   <h4> Hair color ;</h4>
+   <h3> Hair color ;</h3>
   <p>  Dark gray</p>
-    <h4>Height ;</h4>
+    <h3>Height ;</h3>
    <p> 5'10"; 178 cm</p>
     <img src="https://i.pinimg.com/564x/5e/f2/b9/5ef2b9ca1ac9554a3211ed68aa982acc.jpg" alt="gambar miles edgewort ganteng">
 body>
